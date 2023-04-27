@@ -1,18 +1,13 @@
-## Getting Started
+## Pedido da AP1
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Pedido
 
-## Folder Structure
+Você recebeu um pedido de projeto para desenvolver um aplicativo para venda de ingressos online para um evento esportivo. O aplicativo deve permitir que os usuários comprem ingressos para as partidas, selecionem o assento e realizem o pagamento de forma online.
 
-The workspace contains two folders by default, where:
+# Funcionalidades do projeto
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- O aplicativo deve permitir que o usuário visualize a lista de partidas disponíveis para venda;
+- Para cada partida, o usuário deve poder escolher a quantidade e o tipo de ingressos desejados, bem como o assento que deseja ocupar;
+- O aplicativo deve calcular o preço total da compra de acordo com a quantidade e o tipo de ingressos selecionados;
+- O usuário deve poder realizar o pagamento de forma online através de uma das opções de pagamento disponíveis;
+- Após o pagamento, o usuário deve receber um comprovante de compra com as informações sobre a partida, a quantidade e o tipo de ingressos comprados e o assento escolhido.
