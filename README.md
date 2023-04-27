@@ -1,10 +1,10 @@
-## Pedido da AP1
+# Pedido da AP1
 
-# Pedido
+## Pedido
 
 Você recebeu um pedido de projeto para desenvolver um aplicativo para venda de ingressos online para um evento esportivo. O aplicativo deve permitir que os usuários comprem ingressos para as partidas, selecionem o assento e realizem o pagamento de forma online.
 
-# Funcionalidades do projeto
+## Funcionalidades do projeto
 
 - O aplicativo deve permitir que o usuário visualize a lista de partidas disponíveis para venda;
 - Para cada partida, o usuário deve poder escolher a quantidade e o tipo de ingressos desejados, bem como o assento que deseja ocupar;
