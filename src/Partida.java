@@ -61,8 +61,6 @@ public class Partida {
     public String toString() {
         return "Nome da Partida: " + getNome() + "\n" + 
         "Data: " + getData() + "\n" + 
-        "Local: " + getLocal() + "\n" + 
-        "Quantidade de Ingressos Inteira: " + this.ingressosInteira + "\n" + 
-        "Quantidade de Ingressos Meia: " + this.ingressosMeia;
+        "Local: " + getLocal();
     }
 }
