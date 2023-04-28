@@ -17,6 +17,6 @@ public abstract class Ingresso {
 
     @Override
     public String toString() {
-        return "Partida: " + this.partida + "\n" + "Tipo: " + this.tipo + "\n" + "Assento: " + this.assento + "\n" + "Preço: " + this.preco + "\n";
+        return this.partida + "\n" + "Tipo: " + this.tipo + "\n" + "Assento: " + this.assento + "\n" + "Preço: R$" + this.preco + "\n";
     }
 } 
