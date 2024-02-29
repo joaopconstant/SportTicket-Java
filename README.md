@@ -25,10 +25,6 @@ Para executar o projeto, você precisará de um ambiente de desenvolvimento Java
 
 Feedbacks são sempre bem-vindos! Se você tiver sugestões de melhorias ou deseja contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar uma pull request.
 
-## Contato
-
-Para mais informações ou para entrar em contato, você pode me encontrar em [seu_email@exemplo.com](mailto:seu_email@exemplo.com).
-
 ## Licença
 
 Este projeto é distribuído sob a licença [MIT](LICENSE), o que significa que você pode usá-lo livremente, inclusive para fins comerciais, desde que mantenha o aviso de direitos autorais.
