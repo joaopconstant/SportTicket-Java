@@ -1,4 +1,5 @@
-# Sistema de Venda de Ingressos para Eventos Esportivos
+# SportTicket
+Sistema de Venda de Ingressos para Eventos Esportivos
 
 ## Visão Geral
 
